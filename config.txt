@@ -1,6 +1,6 @@
 token= NTM1OTA1ODA0NDMyNDQxMzU5.DyO8sg.gwH31EEHvn_dzlIhSKtbhwqFtAc
-owner= 352222161559093269 
-prefix= *
-game= *play
+owner= 529646570983915551
+prefix= y
+game= fuck u bitch b :Y A H Y A
 stayinchannel=true 
 songinstatus=false 
